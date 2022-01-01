@@ -1,0 +1,2 @@
+bases:
+  - github.com/argoproj/argo-cd//manifests/core-install?ref=v2.2.1
